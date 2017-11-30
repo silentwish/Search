@@ -19,7 +19,7 @@ int main()
 		}
 	else
 		{
-			printf("ËÑË÷½á¹ûÎª£º%s\n",temp);
+			printf("This is%s\n",temp);
 		}
 		return 0;
 }
